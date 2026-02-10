@@ -65,6 +65,11 @@
 
 ![3.png](img/3.png)
 
+### 注意事项！！！
+
+> 将Plugins下的 TX Cloud Rendering.Editor.dll 属性设置由任何平台变更为仅编辑器！否则将无法打包！！！
+
+![5.png](img/5.png)
 
 ### 组件全览
 
