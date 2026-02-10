@@ -20,6 +20,8 @@
 - InputSystem-1.7.0 [InputSystem](https://github.com/Unity-Technologies/InputSystem/releases/tag/1.7.0)
 
 - UnityWebSocket-v2.8.6 [UnityWebSocket](https://github.com/psygames/UnityWebSocket)
+- 
+- UnityLitJson [UnityLitJson](https://github.com/zhangzhi532200/UnityLitJson)
 
 - com.unity.webrtc-3.0.0-pre.6 [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc/releases/tag/3.0.0-pre.6)
 
